@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to manage an Expo project.  The exact error message varies, but generally involves issues with the project's configuration or dependencies.  Often, it manifests as a failure to start the development server, build the app, or perform other CLI commands.
